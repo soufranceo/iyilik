@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://gunluk-iyi-isler.netlify.app</loc>
+    <lastmod>2024-03-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="https://gunluk-iyi-isler.netlify.app"/>
+  </url>
+  <url>
+    <loc>https://gunluk-iyi-isler.netlify.app/iletisim1</loc>
+    <lastmod>2024-03-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="https://gunluk-iyi-isler.netlify.app/iletisim1"/>
+  </url>
+  <url>
+    <loc>https://gunluk-iyi-isler.netlify.app/deed/yavru-kedilere-yuva</loc>
+    <lastmod>2024-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1570018144715-43110363d70a</image:loc>
+      <image:title>Yavru Kedilere Yuva</image:title>
+    </image:image>
+  </url>
+</urlset>
